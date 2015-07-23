@@ -1,0 +1,2 @@
+# MisfitCordovaClient
+Misfit Cordova Client
